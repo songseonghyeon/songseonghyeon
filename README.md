@@ -90,10 +90,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songseonghyeon&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songseonghyeon&layout=compact&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=songseonghyeon&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=songseonghyeon&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=songseonghyeon&theme=github_dark" />
+</p>
 
 ---
 

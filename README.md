@@ -99,3 +99,25 @@
 
 ## 📫 Contact
 📧 **Email:** songseong88@naver.com
+
+## 📌 Pinned Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌱 Malifarm</h3>
+      <p>
+        스마트팜과 조각투자를 결합한 금융형 투자 플랫폼입니다.<br/>
+        청약, 토큰 분배, 거래 기록, 배당 지급 등 금융 데이터 처리 기능을 구현했습니다.
+      </p>
+      <p>
+        <b>Tech Stack</b><br/>
+        Spring Boot · MyBatis · PostgreSQL · Docker
+      </p>
+      <p>
+        🏆 신한DS 금융 SW 아카데미 팀 프로젝트 최우수상
+      </p>
+      <a href="https://github.com/sh6th-animal-farm/malifarm">Repository</a>
+    </td>
+  </tr>
+</table>

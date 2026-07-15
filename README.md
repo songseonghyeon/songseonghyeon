@@ -63,17 +63,12 @@
 
 ---
 
-## 📌 Main Project
+## 📌 Projects
 
-### 🌱 My Little SmartFarm (MLF) 🏆 [최우수상 수상]
-> **스마트팜 데이터 기반 STO(Security Token Offering) 투자 관리 플랫폼**
-
-- **Role & Achievements**
-  - **투자 데이터 관리:** 핵심 비즈니스 로직 및 거래 기록 API 개발
-  - **DB 설계:** PostgreSQL 기반의 Token Ledger 설계로 데이터 무결성 보장
-  - **성능 개선:** 인덱스 적용을 통해 거래 기록 조회 속도 약 **30% 향상**
-  - **금융 정밀도:** `BigDecimal`을 활용한 정확한 토큰 정산 시스템 구현
-- **Tech Stack:** Spring Boot / MyBatis / PostgreSQL / Docker / GitHub Actions
+| No. | Project | Period | Role |
+| :---: | :--- | :---: | :--- |
+| 1 | **[My Little SmartFarm (Malifarm)](https://github.com/sh6th-animal-farm/malifarm)**<br>스마트팜과 토큰 증권(STO) 발행 모델을 결합한 금융형 플랫폼 | 2026.02 ~ 2026.04 | Full Stack (Frontend, Backend, AI) |
+| 2 | **[AlgoSync (알봇)](https://github.com/songseonghyeon/algosync)**<br>프로그래머스 맞춤형 AI 알고리즘 코드 리뷰 및 학습 관리 서비스 | 2026.06 ~ 2026.07 | Backend, Infra, Chrome Extension |
 
 ---
 
@@ -103,25 +98,3 @@
 
 ## 📫 Contact
 📧 **Email:** songseong88@naver.com
-
-## 📌 Pinned Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌱 Malifarm</h3>
-      <p>
-        스마트팜과 조각투자를 결합한 금융형 투자 플랫폼입니다.<br/>
-        청약, 토큰 분배, 거래 기록, 배당 지급 등 금융 데이터 처리 기능을 구현했습니다.
-      </p>
-      <p>
-        <b>Tech Stack</b><br/>
-        Spring Boot · MyBatis · PostgreSQL · Docker
-      </p>
-      <p>
-        🏆 신한DS 금융 SW 아카데미 팀 프로젝트 최우수상
-      </p>
-      <a href="https://github.com/sh6th-animal-farm/malifarm">Repository</a>
-    </td>
-  </tr>
-</table>

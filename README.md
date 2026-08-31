@@ -72,17 +72,6 @@
 
 ---
 
-### 📝 Algorithm Practice
-- **백준 문제 풀이 자동 업로드**
-- **자료구조 및 알고리즘 해결 능력 강화**
-<div align="left">
-  <a href="https://solved.ac/songseong88">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=songseong88" />
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
